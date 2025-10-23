@@ -3,6 +3,7 @@ Fecha entrega: 22 de octubre de 2025 Estudiantes: Juan Carlos Tovar Orjuela – 
 El taller se compone de 2 partes:
 Se adjunta un documento .doc, con la solución de los 4 puntos, donde se presenta la definición y el desarrollo del proyecto, al igual que las estrategias y recomendaciones.
 Se adjunta un notebook realizado en colab, o se puede abrir en el link = https://colab.research.google.com/drive/1IvHdG1fRKggBrne8KPgJoo8YvKvNF0wH?usp=sharing
-2.1 Se adjunta el dataset KMC-70k-93-2024-Obes 19-conVel-DATA-SPSS-20250322V1.csv
+2.1 Se adjunta el dataset KMC-70k-93-2024-Obes 19-conVel-DATA-SPSS-20250322V1.csv, en el cual se muestra el Análisis Exploratorio de Datos con conclusiones iniciales descritas en el mismo notebook.
+2.1.1 Igualmente se adjunta una versión reducida del diccionario "Variables_Tipo.csv", la cual debe usarse como parte de la ejecución del notebook EDA.
 2.2 Cargue el dataset
 2.3 Ejecute el notebook.
