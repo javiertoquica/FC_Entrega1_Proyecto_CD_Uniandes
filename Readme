@@ -1,6 +1,6 @@
 Universidad de los Andes - Maestría en Ingeniería de la Información Profesor: Fabian Camilo Peña, Juan Pablo Reyes 
 Fecha entrega: 22 de octubre de 2025 Estudiantes: Juan Carlos Tovar Orjuela – Jose Jorge Geles Carrillo - Edgar Javier Toquica Gahona
-El taller se compone de 2 partes:
+La entrega del proyecto se compone de 2 partes:
 Se adjunta un documento .doc, con la solución de los 4 puntos, donde se presenta la definición y el desarrollo del proyecto, al igual que las estrategias y recomendaciones.
 Se adjunta un notebook realizado en colab, o se puede abrir en el link = https://colab.research.google.com/drive/118tUsBZkFzEWQwuDXjJbdYxqzZns6VtC?usp=sharing
 2.1 Es requerido el dataset KMC-70k-93-2024-Obes 19-conVel-DATA-SPSS-20250322V1.csv, el cual por tamaño no se adjuntó a GitHub, se incluyó como adjunto en la entrega de Bloque Neon. En el cual se muestra el Análisis Exploratorio de Datos con conclusiones iniciales descritas en el mismo notebook.
